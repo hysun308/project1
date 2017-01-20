@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Calorie Calculator</string>
+    <string name="exercises_prompt">choose a exercise</string>
+    <string name="mins">mins</string>
+    <string name="reps">reps</string>
+    <string name="edit_exercise">Enter a Number</string>
+    <string name="button_convert">Convert</string>
+
+    <string-array name="exercises_arrays">
+        <item>Pushup</item>
+        <item>Situp</item>
+        <item>Jumping Jacks</item>
+        <item>Jogging</item>
+    </string-array>
+</resources>
